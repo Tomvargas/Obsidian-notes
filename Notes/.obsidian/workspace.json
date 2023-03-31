@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5c38b9e7b51c3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERAGUA/Observaciones Interagua.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8034d9e6e5b2056f",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agencia Simon.md",
+                "file": "INTERAGUA/Observaciones Interagua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agencia Simon.md",
+                "file": "INTERAGUA/Observaciones Interagua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agencia Simon.md"
+                "file": "INTERAGUA/Observaciones Interagua.md"
               }
             }
           }
@@ -146,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73576cac3a7d92a4",
+  "active": "a5c38b9e7b51c3e5",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Agencia Simon.md",
+    "INTERAGUA/Observaciones Interagua.md",
+    "INTERAGUA",
+    "Untitled.canvas",
     "2023-03-31.md",
     "Test.md"
   ]
