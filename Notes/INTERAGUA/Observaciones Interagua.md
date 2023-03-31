@@ -41,7 +41,7 @@ La pagina debe estar presentable en marzo (15)
 ## TRB
 * backgroun de interfaz tener iconos ( tramado de iconos como marca de agua para cubir el fondo en las secciones)
 
-## Tramites
+## Organigrama
 * Respuesta redisenio de mapa y evaluar si sera un componente para la nueva seccion
 
 # Transparencia
