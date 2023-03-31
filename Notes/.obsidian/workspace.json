@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f131b31fde2c265e",
+        "id": "fbfc97a2e01c67e5",
         "type": "tabs",
         "children": [
           {
-            "id": "703d923990e4dc53",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f17a20fe0aa18fa",
+            "id": "73576cac3a7d92a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Agencia Simon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Agencia Simon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Agencia Simon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Agencia Simon.md"
               }
             }
           }
@@ -155,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f17a20fe0aa18fa",
+  "active": "73576cac3a7d92a4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Agencia Simon.md",
+    "2023-03-31.md",
     "Test.md"
   ]
 }
