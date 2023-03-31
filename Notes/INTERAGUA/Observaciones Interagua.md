@@ -38,4 +38,7 @@
 * backgroun de interfaz tener iconos (propuse tramado de iconos como marca de agua para cubir el fondo en las secciones)
 
 ## Tramites
-* 
+* Respuesta redisenio de mapa y evaluarsi sera un componente para la nueva seccion
+
+# Transparencia
+COntrato de consecion y luego 
