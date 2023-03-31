@@ -17,3 +17,8 @@
 ## Unidad Movil
 * Alcande Rastrear los carros en tiempo real (presentar tambien disenio)
 * Mejorar cta de popup
+* Pop up sea Slider con indicador numerico para insertar varias imagenes no solo una
+* Agregar, "Mas cerca de ti", como algo llamativo en el disenio
+
+## Recursos Humanos
+* Paulina enviara mas 
