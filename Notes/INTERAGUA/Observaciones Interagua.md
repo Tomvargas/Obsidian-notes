@@ -39,7 +39,7 @@ La pagina debe estar presentable en marzo (15)
 * Interrupciones abajo y servicios arriba (solo en figma)
 
 ## TRB
-* backgroun de interfaz tener iconos (propuse tramado de iconos como marca de agua para cubir el fondo en las secciones)
+* backgroun de interfaz tener iconos ( tramado de iconos como marca de agua para cubir el fondo en las secciones)
 
 ## Tramites
 * Respuesta redisenio de mapa y evaluar si sera un componente para la nueva seccion
