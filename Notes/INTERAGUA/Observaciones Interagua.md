@@ -13,3 +13,7 @@
 
 ## Contact center
 * Agregar imagen (propuesta de disenio) en el banner
+
+## Unidad Movil
+* Alcande Rastrear los carros en tiempo real (presentar tambien disenio)
+* Mejorar cta de popup
