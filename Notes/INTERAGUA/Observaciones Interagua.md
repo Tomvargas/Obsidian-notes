@@ -19,7 +19,7 @@ La pagina debe estar presentable en marzo (15)
 * Agregar imagen (propuesta de disenio) en el banner
 
 ## Unidad Movil
-* Alcance Rastrear los carros en tiempo real (presentar tambien disenio)
+**Alcance Rastrear los carros en tiempo real (presentar tambien disenio)**
 * Mejorar cta de popup
 * Pop up sea Slider con indicador numerico para insertar varias imagenes no solo una
 * Agregar, "Mas cerca de ti", como algo llamativo en el disenio enviar medidas a Paulina
