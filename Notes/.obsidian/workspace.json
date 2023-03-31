@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8034d9e6e5b2056f",
@@ -147,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5c38b9e7b51c3e5",
+  "active": "c7edc3e9b9c8638a",
   "lastOpenFiles": [
     "INTERAGUA/Observaciones Interagua.md",
     "Agencia Simon.md",
