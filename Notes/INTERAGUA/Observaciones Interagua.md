@@ -15,10 +15,17 @@
 * Agregar imagen (propuesta de disenio) en el banner
 
 ## Unidad Movil
-* Alcande Rastrear los carros en tiempo real (presentar tambien disenio)
+* Alcance Rastrear los carros en tiempo real (presentar tambien disenio)
 * Mejorar cta de popup
 * Pop up sea Slider con indicador numerico para insertar varias imagenes no solo una
 * Agregar, "Mas cerca de ti", como algo llamativo en el disenio
+* Ajustar Funciones y beneficios (textos en los cards)
 
 ## Recursos Humanos
-* Paulina enviara mas 
+* Paulina enviara mas contenido
+
+## Interrupciones
+* cambiar de 1900m a 2km
+
+## Home
+* Interrupciones abajo y servicios arriba
