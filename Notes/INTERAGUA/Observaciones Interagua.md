@@ -26,6 +26,13 @@
 
 ## Interrupciones
 * cambiar de 1900m a 2km
+* Enviar tamanio de miniatura
+
+## Efluentes
+* Documentos de guias pueden actualizarse -- A la espera de la respuesta de Diego
 
 ## Home
-* Interrupciones abajo y servicios arriba
+* Interrupciones abajo y servicios arriba (solo en figma)
+
+## TRB
+* backgroun de interfaz tener iconos (propuse tramado de iconos como marca de agua para cubir el fondo en las secciones)
