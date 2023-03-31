@@ -1,4 +1,8 @@
-* Imagen de alcantarillado pluvial esta muy simple
+La pagina se presenta en produccion el 3 de Junio y el 2 de junio se va a presentar la antigua web
+La pagina debe estar presentable en marzo (15)
+
+## Agua pluvial y sanitarios
+* Imagen esta muy simple
 
 ## Tramites
 * Capitalizar titulos
@@ -18,7 +22,7 @@
 * Alcance Rastrear los carros en tiempo real (presentar tambien disenio)
 * Mejorar cta de popup
 * Pop up sea Slider con indicador numerico para insertar varias imagenes no solo una
-* Agregar, "Mas cerca de ti", como algo llamativo en el disenio
+* Agregar, "Mas cerca de ti", como algo llamativo en el disenio enviar medidas a Paulina
 * Ajustar Funciones y beneficios (textos en los cards)
 
 ## Recursos Humanos
