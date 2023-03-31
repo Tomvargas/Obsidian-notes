@@ -38,7 +38,13 @@
 * backgroun de interfaz tener iconos (propuse tramado de iconos como marca de agua para cubir el fondo en las secciones)
 
 ## Tramites
-* Respuesta redisenio de mapa y evaluarsi sera un componente para la nueva seccion
+* Respuesta redisenio de mapa y evaluar si sera un componente para la nueva seccion
 
 # Transparencia
-COntrato de consecion y luego 
+* Contrato de consecion y luego aparte anexos
+* Separar Ademdums
+* Crear un boton mas (Normograma)
+	* Esperar contenido de Diego Martes
+
+## Agua potable
+Conponente image with QLinks debe linkear las opciones - Esperar links
