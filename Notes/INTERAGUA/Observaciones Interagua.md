@@ -12,3 +12,4 @@
 * link cajeros automaticos a los tres cajeros en mapa
 
 ## Contact center
+* Agregar imagen (propuesta de disenio) en el banner
