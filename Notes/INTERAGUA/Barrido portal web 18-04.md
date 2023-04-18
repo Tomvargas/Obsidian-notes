@@ -5,7 +5,7 @@
 * 
 
 ## Cultura de prevención y seguridad
-* 
+* Franja gris bajo video
 
 ## Sistema de gestón integrado
 * 
@@ -14,7 +14,7 @@
 * 
 
 ## Sistema de Agua potable
-* Imagen en cada planta de potabilización
+* Imagen en cada planta de potabilizaciónfalta (planta san lorenzo)
 * Pdf en PRANC - PRICAS - SMARTCITY - NEPTUNO
 
 ## Alcantarillado Sanitario
