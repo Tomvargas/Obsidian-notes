@@ -20,6 +20,11 @@
 ## Alcantarillado Sanitario
 * Imagen de inicio
 * Confirmación para eliminarparte de conoce las diferencias entre alcantarillado sanitario y pluvial.
+	* titulo
+	* casa
+	* 
+	* titulo que es el  50/50
+	* imagen
 
 ## Alcantarillado Pluvial
 * imagen principal bajo texto
