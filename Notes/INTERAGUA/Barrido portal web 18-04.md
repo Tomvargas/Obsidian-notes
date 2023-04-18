@@ -1,5 +1,5 @@
 ## Home
-* Títulos en color azul (por estilo)
+* Títulos en color azul (por estilo) todo
 
 ## Nuestro propósito
 * 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERAGUA/Anotaciones - Efluentes 18-04.md",
+                "file": "INTERAGUA/Barrido portal web 18-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8034d9e6e5b2056f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERAGUA/Anotaciones - Efluentes 18-04.md",
+                "file": "INTERAGUA/Barrido portal web 18-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTERAGUA/Anotaciones - Efluentes 18-04.md",
+                "file": "INTERAGUA/Barrido portal web 18-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTERAGUA/Anotaciones - Efluentes 18-04.md"
+                "file": "INTERAGUA/Barrido portal web 18-04.md"
               }
             }
           }
@@ -148,9 +149,9 @@
   },
   "active": "a25d12a8c2a2e324",
   "lastOpenFiles": [
+    "INTERAGUA/Anotaciones - Efluentes 18-04.md",
     "INTERAGUA/Barrido portal web 18-04.md",
     "Untitled.canvas",
-    "INTERAGUA/Anotaciones - Efluentes 18-04.md",
     "INTERAGUA/Observaciones Interagua.md",
     "Agencia Simon.md",
     "INTERAGUA",
