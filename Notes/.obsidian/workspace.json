@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90cc13bd83a99dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERAGUA/Barrido de secciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md",
+                "file": "INTERAGUA/Barrido de secciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md",
+                "file": "INTERAGUA/Barrido de secciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md"
+                "file": "INTERAGUA/Barrido de secciones.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a25d12a8c2a2e324",
+  "active": "90cc13bd83a99dee",
   "lastOpenFiles": [
-    "INTERAGUA/Anotaciones - Efluentes 18-04.md",
     "INTERAGUA/Barrido portal web 18-04.md",
+    "INTERAGUA/Barrido de secciones.md",
+    "INTERAGUA/Anotaciones - Efluentes 18-04.md",
     "Untitled.canvas",
     "INTERAGUA/Observaciones Interagua.md",
     "Agencia Simon.md",
