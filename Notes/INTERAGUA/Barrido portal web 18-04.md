@@ -23,7 +23,6 @@
 
 ## Alcantarillado Pluvial
 * imagen principal bajo texto
-* Videos alcantarillado pluvial
 
 ## Trámites
 * 
@@ -56,3 +55,15 @@
 * 
 #### Tour 360
 * 
+
+## Formación y desarrollo
+* Reestructurar contenido a un nuevo diseño de la página
+#### Secciones Internas
+* Imagenes de portada
+
+## Interrupciones
+* Contenido
+
+## Semana veolia
+* 
+
