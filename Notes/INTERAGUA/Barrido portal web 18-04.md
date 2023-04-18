@@ -72,9 +72,6 @@
 
 ## Constructores y urbanizadores
 * 
-
-## Servidumbre
-* 
 #### Factibilidad de servicios
 * 
 #### Aprobación de diseños sanitarios
@@ -84,7 +81,13 @@
 #### Fiscalización de obras
 	Secciones internas
 		* 
+#### Densidad poblacional
+* Imagenes proporcionadas
 
+## Servidumbre
+* 
 
+## Transparencia
+* 
 
 
