@@ -42,3 +42,12 @@
 
 ## Unidad móvil
 * 
+
+## Instituciones de recaudo
+* 
+
+## Noticias
+* Contenido
+
+## Responsabilidad social
+* Imagen mockup
