@@ -27,7 +27,7 @@
 	* imagen
 
 ## Alcantarillado Pluvial
-* imagen principal bajo texto
+* imagen principal bajo texto poner textos desde la imagen anterior
 
 ## Trámites
 * 
