@@ -3,5 +3,17 @@
 
 ## Nuestro propósito
 * 
+
 ## Cultura de prevención y seguridad
-* Franja de descripción en video principal
+* 
+
+## Sistema de gestón integrado
+* 
+
+## Políticas
+* 
+
+## Sistema de Agua potable
+* 
+
+## 
