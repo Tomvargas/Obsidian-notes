@@ -14,7 +14,7 @@
 * 
 
 ## Sistema de Agua potable
-* Imagen en cada planta de potabilizaciónfalta (planta san lorenzo)
+* Imagen en cada planta de potabilizaciónfalta (planta san lorenzo) *
 * Pdf en PRANC - PRICAS - SMARTCITY - NEPTUNO
 
 ## Alcantarillado Sanitario
