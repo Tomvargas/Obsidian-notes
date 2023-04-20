@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "baf8dd56521f5fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "90cc13bd83a99dee",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md",
+                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md",
+                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md"
+                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md"
               }
             }
           }
@@ -159,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a25d12a8c2a2e324",
+  "active": "baf8dd56521f5fcc",
   "lastOpenFiles": [
+    "INTERAGUA/Barrido portal web 18-04.md",
+    "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
     "INTERAGUA/Anotaciones - Efluentes 18-04.md",
     "INTERAGUA/Barrido de secciones.md",
-    "INTERAGUA/Barrido portal web 18-04.md",
     "Untitled.canvas",
     "INTERAGUA/Observaciones Interagua.md",
     "Agencia Simon.md",
