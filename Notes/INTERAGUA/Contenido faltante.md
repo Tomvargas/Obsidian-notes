@@ -1,0 +1,2 @@
+* Efluentes - Comerciales
+* Efluentes - Industriales
