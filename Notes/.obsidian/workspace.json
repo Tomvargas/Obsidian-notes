@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a25d12a8c2a2e324",
+            "id": "9fc7e208cce28a41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baf8dd56521f5fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90cc13bd83a99dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTERAGUA/Anotaciones - Efluentes 18-04.md",
+                "file": "INTERAGUA/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
+                "file": "INTERAGUA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
+                "file": "INTERAGUA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md"
+                "file": "INTERAGUA/Untitled.md"
               }
             }
           }
@@ -172,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf8dd56521f5fcc",
+  "active": "9fc7e208cce28a41",
   "lastOpenFiles": [
-    "INTERAGUA/Barrido portal web 18-04.md",
     "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
+    "INTERAGUA/Untitled.md",
+    "Untitled",
+    "INTERAGUA/Barrido portal web 18-04.md",
     "INTERAGUA/Anotaciones - Efluentes 18-04.md",
     "INTERAGUA/Barrido de secciones.md",
     "Untitled.canvas",
