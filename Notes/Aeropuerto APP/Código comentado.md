@@ -1,4 +1,4 @@
-App > lib > screens > home_page.dart
+# App > lib > screens > home_page.dart
 
 line 131 bajo GetNewAir()
 
@@ -39,3 +39,53 @@ alignment: Alignment.topLeft,
 child: GetPromos(),
 
 ),*/
+
+
+
+# App > lib > screens > flights_page.dart
+
+Container(
+
+alignment: Alignment.centerRight,
+
+margin: EdgeInsets.only(
+
+left: width * 0.30, top: 20),
+
+child: Text(
+
+"Filtros",
+
+textAlign: TextAlign.left,
+
+style: TextStyle(
+
+color: LightColors.mediumgray,
+
+fontSize: 18.0,
+
+fontWeight: FontWeight.w700,
+
+),
+
+),
+
+),
+
+Container(
+
+alignment: Alignment.centerRight,
+
+margin:
+
+EdgeInsets.only(left: 8, top: 20),
+
+child: SvgPicture.string(
+
+IconsSvg.IconDown,
+
+color: LightColors.mediumgray,
+
+),
+
+),
