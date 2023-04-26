@@ -91,7 +91,7 @@ color: LightColors.mediumgray,
 
 ),
 
-# App > lib > screens > flights_page.dart
+# App > lib > screens > airlines_page.dart
 //SearchBar(
 
 // placeHolder: "Buscar una aerolínea",
@@ -163,3 +163,5 @@ color: LightColors.mediumgray,
 ],
 
 ),*/
+
+#
