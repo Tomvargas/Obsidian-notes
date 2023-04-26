@@ -15,10 +15,10 @@ Franja gris bajo video
 
 ## Sistema de Agua potable
 * Imagen en cada planta de potabilizaciónfalta (planta san lorenzo) *
-* Pdf en PRANC - PRICAS - SMARTCITY - NEPTUNO
+Pdf en PRANC - PRICAS - SMARTCITY - NEPTUNO
 
 ## Alcantarillado Sanitario
-* Imagen de inicio
+Imagen de inicio
 * Confirmación para eliminarparte de conoce las diferencias entre alcantarillado sanitario y pluvial.
 	* titulo
 	* casa
@@ -27,7 +27,7 @@ Franja gris bajo video
 	* imagen
 
 ## Alcantarillado Pluvial
-* imagen principal bajo texto poner textos desde la imagen anterior
+imagen principal bajo texto poner textos desde la imagen anterior
 
 ## Trámites
 * 
@@ -42,7 +42,7 @@ Franja gris bajo video
 * 
 
 ## Contact Center
-* El numero de contacto 134 no se puede linkear a llamada directa.
+El numero de contacto 134 no se puede linkear a llamada directa.
 
 ## Unidad móvil
 * 
