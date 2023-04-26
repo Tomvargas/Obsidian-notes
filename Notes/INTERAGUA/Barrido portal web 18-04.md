@@ -1,17 +1,17 @@
 ## Home
-* Títulos en color azul (por estilo) todo
+Títulos en color azul (por estilo) todo
 
 ## Nuestro propósito
-* 
+
 
 ## Cultura de prevención y seguridad
-* Franja gris bajo video
+Franja gris bajo video
 
 ## Sistema de gestón integrado
-* 
+
 
 ## Políticas
-* 
+
 
 ## Sistema de Agua potable
 * Imagen en cada planta de potabilizaciónfalta (planta san lorenzo) *

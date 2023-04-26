@@ -2,10 +2,10 @@ La pagina se presenta en produccion el 3 de Junio y el 2 de junio se va a presen
 La pagina debe estar presentable en marzo (15)
 
 ## Agua pluvial y sanitarios
-* Imagen esta muy simple
+Imagen esta muy simple
 
 ## Tramites
-* Capitalizar titulos
+Capitalizar titulos
 * Agregar un punto (ventas) -- Mantener pendiente
 * Cambiar el orden -- Mantener pendiente
 
