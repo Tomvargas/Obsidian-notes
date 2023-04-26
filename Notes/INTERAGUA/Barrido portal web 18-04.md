@@ -54,7 +54,7 @@ El numero de contacto 134 no se puede linkear a llamada directa.
 * Contenido
 
 ## Responsabilidad social
-* Imagen mockup
+Imagen mockup
 
 ## Visitas virtuales
 * 
@@ -84,8 +84,6 @@ El numero de contacto 134 no se puede linkear a llamada directa.
 #### Individualización de consumo
 * 
 #### Fiscalización de obras
-	Secciones internas
-		* 
 #### Densidad poblacional
 * Imagenes proporcionadas
 
