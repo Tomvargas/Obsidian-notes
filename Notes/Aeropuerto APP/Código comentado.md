@@ -164,4 +164,79 @@ color: LightColors.mediumgray,
 
 ),*/
 
-#
+
+#  App > lib > screens > notices_page.dart
+Line 75 
+
+/* SearchBar(),
+
+Row(
+
+children: [
+
+Container(
+
+alignment: Alignment.centerRight,
+
+child: Row(
+
+crossAxisAlignment:
+
+CrossAxisAlignment.center,
+
+children: [
+
+Container(
+
+//alignment: Alignment.centerRight,
+
+margin: EdgeInsets.only(
+
+left: 30, top: 20),
+
+child: Text(
+
+"Todos",
+
+textAlign: TextAlign.left,
+
+style: TextStyle(
+
+color: LightColors.primary,
+
+fontSize: 18.0,
+
+fontWeight: FontWeight.w700,
+
+),
+
+),
+
+),
+
+Container(
+
+alignment: Alignment.centerRight,
+
+margin: EdgeInsets.only(
+
+left: 8, top: 20),
+
+child: SvgPicture.string(
+
+IconsSvg.IconDown,
+
+color: LightColors.primary,
+
+),
+
+),
+
+],
+
+))
+
+],
+
+),*/
+
