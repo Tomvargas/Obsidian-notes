@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4424901fe851388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aeropuerto APP/Código comentado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8034d9e6e5b2056f",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md",
+                "file": "Aeropuerto APP/Código comentado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md",
+                "file": "Aeropuerto APP/Código comentado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTERAGUA/Barrido portal web 18-04.md"
+                "file": "Aeropuerto APP/Código comentado.md"
               }
             }
           }
@@ -147,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fc7e208cce28a41",
+  "active": "f4424901fe851388",
   "lastOpenFiles": [
+    "INTERAGUA/Barrido portal web 18-04.md",
+    "Aeropuerto APP/Código comentado.md",
+    "Aeropuerto APP",
     "INTERAGUA/Barrido de secciones.md",
     "INTERAGUA/Observaciones Interagua.md",
     "INTERAGUA/Contenido faltante.md",
     "INTERAGUA/Reunión RRHH Formación y desarrollo 20-04.md",
-    "Untitled",
-    "INTERAGUA/Barrido portal web 18-04.md",
     "INTERAGUA/Anotaciones - Efluentes 18-04.md",
     "Untitled.canvas",
     "Agencia Simon.md",
