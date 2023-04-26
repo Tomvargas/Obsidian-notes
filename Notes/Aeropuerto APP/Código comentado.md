@@ -42,6 +42,7 @@ child: GetPromos(),
 
 
 
+
 # App > lib > screens > flights_page.dart
 
 Container(
@@ -89,3 +90,76 @@ color: LightColors.mediumgray,
 ),
 
 ),
+
+# App > lib > screens > flights_page.dart
+//SearchBar(
+
+// placeHolder: "Buscar una aerolínea",
+
+// ),
+
+/*Row(
+
+mainAxisAlignment: MainAxisAlignment.end,
+
+children: [
+
+Align(
+
+alignment: Alignment.centerRight,
+
+child: Row(
+
+//align right
+
+children: [
+
+Container(
+
+margin: EdgeInsets.only(
+
+right: 8, top: 20),
+
+child: Text(
+
+"Filtros",
+
+textAlign: TextAlign.left,
+
+style: TextStyle(
+
+color: LightColors.mediumgray,
+
+fontSize: 18.0,
+
+fontWeight: FontWeight.w700,
+
+),
+
+),
+
+),
+
+Container(
+
+margin: EdgeInsets.only(
+
+right: 30, top: 20),
+
+child: SvgPicture.string(
+
+IconsSvg.IconDown,
+
+color: LightColors.mediumgray,
+
+),
+
+),
+
+],
+
+))
+
+],
+
+),*/
